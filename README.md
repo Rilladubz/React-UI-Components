@@ -1,5 +1,3 @@
-Init
-
 
 # React-UI-Components
 
