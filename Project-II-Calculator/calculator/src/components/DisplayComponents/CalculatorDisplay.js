@@ -1,11 +1,9 @@
 import React from 'react';
-import './Display.scss';
+import './Display.css';
 
 const CalculatorDisplay = () => {
     return (
-        <div>
-            <div ClassName="display"></div>
-        </div>
+        <div className="display">0</div>
     )
 };
 

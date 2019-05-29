@@ -5,8 +5,12 @@ body {
 }
 
 .calc-container{
-  border: solid green;
   margin: 0 auto;
   height: 650px;
   width: 400px;
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
 }
