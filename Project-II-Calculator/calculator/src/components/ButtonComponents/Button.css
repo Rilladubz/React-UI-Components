@@ -1,0 +1,19 @@
+.Action-Btn{
+    height: 100px;
+    width: 75%;
+    font-size: 35px;
+}
+
+.number{
+    height: 100px;
+    width: 25%;
+    font-size: 35px;
+    
+}
+.op{
+    color: white;
+    background-color: #CA3421;
+}
+
+
+
