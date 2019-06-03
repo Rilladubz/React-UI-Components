@@ -1,1 +1,12 @@
 /* All styles for your header Components live here */
+
+.Header-Container{
+    border: solid red;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Header-Img{
+    border: solid green;
+}
