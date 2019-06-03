@@ -1,14 +1,19 @@
 import React from 'react';
 import './Card.css';
 
+import CardContentTitle from './CardContentTitle';
+import CardContentText from './CardContentText';
+import CardContentlink from './CardContentlink';
 
 
-const CardContainer = () => {
+const CardContent = () => {
     return (
         <div>
-            <CardBanner />
+            <CardContentTitle />
+            <CardContentText />
+            <CardContentlink />
         </div>
     );
 };
 
-export default CardContainer;
+export default CardContent;
