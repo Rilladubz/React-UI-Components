@@ -1,4 +1,10 @@
 .display{
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+    font-size: 100px;
+    align-items: center;
+    padding-right: 10px;
     background-color: black;
     height: 150px;
     width: 100%;
